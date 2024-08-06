@@ -1,5 +1,5 @@
 # PyCrypter
-PyCrypter is a light-weight alternative to my <a href="https://github.com/AaronTook/PyPersonalVault/">PyPersonalVault project</a>. Designed to be started from the command line with or without arguments, this project performs fast AES encryption and decryption of files with a string password. 
+PyCrypter is a light-weight alternative to my <a href="https://github.com/lefkovitzj/PyPersonalVault/">PyPersonalVault project</a>. Designed to be started from the command line with or without arguments, this project performs fast AES encryption and decryption of files with a string password. 
 
 The graphical user interface (GUI) used to show progress is built with CustomTkinter (pip install customtkinter). Cryptographic algorithms are sourced from the AES and PBKDF2 portions of the PyCryptodome package (pip install pycryptodomex), and various Python Standard Library modules are used throughout. Many thanks to the developers of and contributors to these excellent tools!
 
